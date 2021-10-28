@@ -1,0 +1,22 @@
+{
+  "name": "@fadhilahm/is-fadhilahm",
+  "version": "1.0.0",
+  "description": "Compare a string with 'fadhilahm'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadhilahm/is-fadhilahm-npm-package.git"
+  },
+  "keywords": [
+    "fadhilahm"
+  ],
+  "author": "fadhilahm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadhilahm/is-fadhilahm-npm-package/issues"
+  },
+  "homepage": "https://github.com/fadhilahm/is-fadhilahm-npm-package#readme"
+}
